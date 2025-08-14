@@ -10,5 +10,5 @@ A PHP-based web application that:
 1. Install **XAMPP**.  
 2. Place the project folder in the `htdocs` directory.
 3. Start Apache and MySql services
-4. Import the provided database into **phpMyAdmin**.  
+4. Import the provided database into **phpMyAdmin** (adatok.sql).  
 5. Open `http://localhost/your-project-folder` in your browser.
